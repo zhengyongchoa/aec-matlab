@@ -21,4 +21,9 @@ webrtc源码： 删除 舒适噪声， 非线性处理， 模块 ，
 4 speex：
 采样率 ：16k
 效果 差
-# aec-matlab-
+
+5 nlms : 
+最简单的nlms回声消除算法 
+采样率 ：16k
+效果 差
+# aec-matlab
